@@ -1,0 +1,4 @@
+      deadLetterExchange: 'dlx.exchange',
+      deadLetterRoutingKey: 'videos.convert',
+      amq.direct
+      queue para ler video-upload
